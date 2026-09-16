@@ -1,7 +1,7 @@
 <div align="right">
   <b>🌐 Language / Idioma:</b> 
-  <a href="./README.md">Español</a> | 
-  <b>English</b>
+  <b>English</b> | 
+  <a href="./README-es.md">Español</a>
 </div>
 
 <div align="center">
