@@ -77,7 +77,31 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
+    <p align="center">
+      <a href="https://github.com/GalenKishi">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GalenKishi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+      <a href="https://github.com/Adityakanoi2001">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+      </a>
+    </p>
+</div>
+
+<div align="center">
+  <h2>📫 ¡Hablemos! / Contact Me</h2>
+  <p>Estoy abierto a oportunidades laborales remotas (Full-time / Part-time), proyectos freelance y colaboraciones en videojuegos.</p>
+  
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=GalenKishi&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalenKishi&layout=compact&theme=dark" alt="Lenguajes más usados" height="150"/>
+
+  <a href="mailto:galenarturo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-galenarturo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/galen-kishi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Galen_Kishi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kishi-itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-Portafolio_Indie-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
+
+  <p>📍 <b>Ubicación:</b> Guadalajara, Jalisco, México (Disponible para trabajo remoto global)</p>
 </div>
