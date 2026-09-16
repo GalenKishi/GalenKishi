@@ -2,12 +2,7 @@
   <h1>👋 Hola, soy Galen Arturo Kishi Montiel</h1>
   <h3>Full Stack Software Developer & Game Programmer</h3>
   <p><i>Apasionado por la optimización de código, arquitectura de software y el desarrollo de experiencias interactivas.</i></p>
-  
-  <p>
-    <a href="https://linkedin.com/in/galen-kishi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://kishi-itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
-    <a href="mailto:galenarturo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+
 </div>
 
 <hr />
