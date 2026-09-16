@@ -1,3 +1,10 @@
+
+<div align="right">
+  <b>🌐 Idioma / Language:</b> 
+  <a href="./README.md"><b>Español</b></a> | 
+  <a href="./README-en.md">English</a>
+</div>
+
 <div align="center">
   <h1 align="center"><b>Hi, I'm Galen Kishi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
