@@ -1,8 +1,15 @@
 <div align="center">
-  <h1>👋 Hola, soy Galen Arturo Kishi Montiel</h1>
-  <h3>Full Stack Software Developer & Game Programmer</h3>
+  <h1 align="center"><b>Hi, I'm Galen Kishi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <p align="center">
+      <a href="https://github.com/GalenKishi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F0FF&size=22&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;Game+Programmer+(Unity/UE5)"></a>
+    </p>  
   <p><i>Apasionado por la optimización de código, arquitectura de software y el desarrollo de experiencias interactivas.</i></p>
 
+  <p>
+    <a href="https://linkedin.com/in/galen-kishi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://kishi-itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
+    <a href="mailto:galenarturo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 <hr />
@@ -63,7 +70,7 @@
     <td width="50%" valign="top">
       <h4>🎮 Herramientas & Prototipos en Itch.io</h4>
       <p>Colección de herramientas para Unity, assets y sistemas de interacción programados en C# y C++.</p>
-      <a href="https://kishi-itch.io">Ver Proyectos en Itch.io →</a>
+      <a href="https://kishi-itch.io" target="_blank">Ver Proyectos en Itch.io →</a>
     </td>
   </tr>
 </table>
@@ -76,11 +83,13 @@
       <a href="https://github.com/GalenKishi">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GalenKishi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
-      <a href="https://github.com/Adityakanoi2001">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+      <a href="https://github.com/GalenKishi">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GalenKishi&layout=compact&langs_count=8&theme=algolia"/>
       </a>
     </p>
 </div>
+
+<hr />
 
 <div align="center">
   <h2>📫 ¡Hablemos! / Contact Me</h2>
@@ -98,5 +107,6 @@
     <img src="https://img.shields.io/badge/Itch.io-Portafolio_Indie-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 
+  <br /><br />
   <p>📍 <b>Ubicación:</b> Guadalajara, Jalisco, México (Disponible para trabajo remoto global)</p>
 </div>
