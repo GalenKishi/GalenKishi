@@ -1,16 +1,15 @@
-
 <div align="right">
-  <b>🌐 Idioma / Language:</b> 
-  <a href="./README.md"><b>Español</b></a> | 
-  <a href="./README-en.md">English</a>
+  <b>🌐 Language / Idioma:</b> 
+  <a href="./README.md">Español</a> | 
+  <b>English</b>
 </div>
 
 <div align="center">
   <h1 align="center"><b>Hi, I'm Galen Kishi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <p align="center">
-      <a href="https://github.com/GalenKishi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F0FF&size=22&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;Game+Programmer+(Unity/UE5)"></a>
-    </p>  
-  <p><i>Apasionado por la optimización de código, arquitectura de software y el desarrollo de experiencias interactivas.</i></p>
+  <p align="center">
+    <a href="https://github.com/GalenKishi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F0FF&size=22&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;Game+Programmer+(Unity/UE5)"></a>
+  </p>  
+  <p><i>Passionate about code optimization, software architecture, and building interactive experiences.</i></p>
 
   <p>
     <a href="https://linkedin.com/in/galen-kishi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,17 +20,17 @@
 
 <hr />
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-- 🔭 Actualmente me desempeño como **Desarrollador Full Stack Freelance** y **Game Programmer**.
-- 🎓 Estudiando la **Ingeniería en Desarrollo Interactivo y Programación de Videojuegos** (Universidad Amerike).
-- 🕹️ Especializado en la creación de mecánicas de juego en **Unity (C#)** y **Unreal Engine 5 (C++)**.
-- 🌐 Construcción de aplicaciones web modernas y escalables con **React, Next.js, Node.js y Supabase**.
-- 💬 Idiomas: **Español** (Nativo) | **Inglés** (B2 - Intermedio Alto).
+- 🔭 Currently working as a **Freelance Full Stack Developer** and **Game Programmer**[cite: 1, 2].
+- 🎓 Pursuing a **B.S. in Interactive Development & Game Programming** at Amerike University[cite: 1, 2].
+- 🕹️ Specialized in gameplay mechanics and systems development using **Unity (C#)** and **Unreal Engine 5 (C++)**[cite: 1, 2].
+- 🌐 Building modern, scalable web applications with **React, Next.js, Node.js, and Supabase**[cite: 1, 2].
+- 💬 Languages: **Spanish** (Native) | **English** (B2 - Upper Intermediate)[cite: 1, 2].
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
 <table width="100%">
   <tr>
@@ -65,19 +64,19 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Portafolio Web & Web Apps</h4>
-      <p>Aplicaciones desarrolladas con Next.js, React, Prisma y Supabase. Enfoque en arquitectura escalable y rendimiento optimizado.</p>
-      <a href="https://github.com/GalenKishi">Ver Repositorios Web →</a>
+      <h4>🌐 Web Portfolio & Web Apps</h4>
+      <p>Full-stack web applications built with Next.js, React, Prisma, and Supabase. Focused on clean architecture and performance[cite: 1, 2].</p>
+      <a href="https://github.com/GalenKishi">View Web Repositories →</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🎮 Herramientas & Prototipos en Itch.io</h4>
-      <p>Colección de herramientas para Unity, assets y sistemas de interacción programados en C# y C++.</p>
-      <a href="https://kishi-itch.io" target="_blank">Ver Proyectos en Itch.io →</a>
+      <h4>🎮 Tools & Game Demos on Itch.io</h4>
+      <p>Collection of custom Unity tools, gameplay systems, and interactive projects built in C# and C++[cite: 1, 2].</p>
+      <a href="https://kishi-itch.io" target="_blank">View Projects on Itch.io →</a>
     </td>
   </tr>
 </table>
@@ -99,8 +98,8 @@
 <hr />
 
 <div align="center">
-  <h2>📫 ¡Hablemos! / Contact Me</h2>
-  <p>Estoy abierto a oportunidades laborales remotas (Full-time / Part-time), proyectos freelance y colaboraciones en videojuegos.</p>
+  <h2>📫 Get in Touch! / Contact Me</h2>
+  <p>Open to remote full-time / part-time software engineering roles, freelance work, and game dev projects.</p>
   
   <br />
 
@@ -111,9 +110,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Galen_Kishi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kishi-itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-Portafolio_Indie-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+    <img src="https://img.shields.io/badge/Itch.io-Indie_Portfolio-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 
   <br /><br />
-  <p>📍 <b>Ubicación:</b> Guadalajara, Jalisco, México (Disponible para trabajo remoto global)</p>
+  <p>📍 <b>Location:</b> Guadalajara, Jalisco, Mexico (Available for worldwide remote work)</p>
 </div>
