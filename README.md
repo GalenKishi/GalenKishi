@@ -22,11 +22,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Freelance Full Stack Developer** and **Game Programmer**[cite: 1, 2].
-- 🎓 Pursuing a **B.S. in Interactive Development & Game Programming** at Amerike University[cite: 1, 2].
-- 🕹️ Specialized in gameplay mechanics and systems development using **Unity (C#)** and **Unreal Engine 5 (C++)**[cite: 1, 2].
-- 🌐 Building modern, scalable web applications with **React, Next.js, Node.js, and Supabase**[cite: 1, 2].
-- 💬 Languages: **Spanish** (Native) | **English** (B2 - Upper Intermediate)[cite: 1, 2].
+- 🔭 Currently working as a **Freelance Full Stack Developer** and **Game Programmer**.
+- 🎓 Pursuing a **B.S. in Interactive Development & Game Programming** at Amerike University.
+- 🕹️ Specialized in gameplay mechanics and systems development using **Unity (C#)** and **Unreal Engine 5 (C++)**.
+- 🌐 Building modern, scalable web applications with **React, Next.js, Node.js, and Supabase**.
+- 💬 Languages: **Spanish** (Native) | **English** (B2 - Upper Intermediate).
 
 ---
 
@@ -70,12 +70,12 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Web Portfolio & Web Apps</h4>
-      <p>Full-stack web applications built with Next.js, React, Prisma, and Supabase. Focused on clean architecture and performance[cite: 1, 2].</p>
+      <p>Full-stack web applications built with Next.js, React, Prisma, and Supabase. Focused on clean architecture and performance.</p>
       <a href="https://github.com/GalenKishi">View Web Repositories →</a>
     </td>
     <td width="50%" valign="top">
       <h4>🎮 Tools & Game Demos on Itch.io</h4>
-      <p>Collection of custom Unity tools, gameplay systems, and interactive projects built in C# and C++[cite: 1, 2].</p>
+      <p>Collection of custom Unity tools, gameplay systems, and interactive projects built in C# and C++.</p>
       <a href="https://kishi-itch.io" target="_blank">View Projects on Itch.io →</a>
     </td>
   </tr>
