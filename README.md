@@ -7,7 +7,7 @@
 <div align="center">
   <h1 align="center"><b>Hi, I'm Galen Kishi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align="center">
-    <a href="https://github.com/GalenKishi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=22&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;Game+Programmer+(Unity/UE5)"></a>
+    <a href="https://github.com/GalenKishi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0000ff&size=22&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;Game+Programmer+(Unity/UE5)"></a>
   </p>  
   <p><i>Passionate about code optimization, software architecture, and building interactive experiences.</i></p>
 
