@@ -22,11 +22,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Freelance Full Stack Developer** and **Game Programmer**.
-- 🎓 Pursuing a **B.S. in Interactive Development & Game Programming** at Amerike University.
-- 🕹️ Specialized in gameplay mechanics and systems development using **Unity (C#)** and **Unreal Engine 5 (C++)**.
-- 🌐 Building modern, scalable web applications with **React, Next.js, Node.js, and Supabase**.
-- 💬 Languages: **Spanish** (Native) | **English** (B2 - Upper Intermediate).
+- Currently working as a **Freelance Full Stack Developer** and **Game Programmer**.
+- Pursuing a **B.S. in Interactive Development & Game Programming** at Amerike University.
+- Specialized in gameplay mechanics and systems development using **Unity (C#)** and **Unreal Engine 5 (C++)**.
+- Building modern, scalable web applications with **React, Next.js, Node.js, and Supabase**.
+- Languages: **Spanish** (Native) | **English** (B2 - Upper Intermediate).
 
 ---
 
